@@ -1,3 +1,14 @@
+---
+
+```sh
+$ node --version
+v20.19.0
+$ npm --version
+10.8.2
+```
+
+---
+
 # Triangle: Back To Home;
 
 ## Small adventure game, created for <a href="https://js13kgames.com">js13kGames</a>
