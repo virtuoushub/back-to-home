@@ -12,14 +12,14 @@ npm install
 
 Build a compact version in both **release** and **electronapp** folders.
 ```
-./build.sh'
+./build.sh
 ```
 
 ### Generating an Electron app
 ![triangle](screenshot2.png)
 Enter to the **electronapp** folder.
 ```
-cd electronapp'
+cd electronapp
 ```
 
 Install dependencies.

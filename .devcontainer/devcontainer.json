@@ -1,4 +1,5 @@
 {
     "image":"mcr.microsoft.com/devcontainers/universal:2",
-    "forwardPorts": [3000,3001]
+    "forwardPorts": [3000,3001],
+    "postCreateCommand": "sudo apt-get update && apt-get install -y libxtst6"
 }
